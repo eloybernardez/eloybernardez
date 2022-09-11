@@ -12,6 +12,8 @@ I don't have work experience but I've developed projects that make me very proud
 
 🔸 ✅ [TODO Machine (Code)](http://eloybernardez.github.io/todo-machine/ "TODO Machine (Code)") | [TODO Machine (Preview)](http://https://github.com/eloybernardez/todo-machine "TODO Machine (Preview)")
 
+🔸 🎲 [Pig Game (Code)](https://github.com/eloybernardez/pig-game "Pig Game (Code)") | [Pig Game (Preview)](https://eloybernardez.github.io/pig-game/ "Pig Game (Preview)")
+
 
 
 ## 🗃 Tech Stack
