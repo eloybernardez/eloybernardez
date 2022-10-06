@@ -1,12 +1,12 @@
 # Hi there, I'm Eloy Bernardez 👋
 
 ## 🖖 About me
-I'm a Trainee FrontEnd developer with knowledge in HTML, CSS, JavaScript, Bootstrap, React and GIT. I love to create... to create and innovate with digital products that can improve people's lives. Also, I love to transfer my knowledge and help people to reach their best version.
+I'm a FrontEnd developer with knowledge in HTML, CSS, JavaScript, Bootstrap, React and GIT. I love to create... to create and innovate with digital products that can improve people's lives. Also, I love to transfer my knowledge and help people to reach their best version.
 
 My background in Science and the tutoring I provide allow me to work with a strong critical thinking, in a disciplined and organized way and with an adaptability to changes very necessary in scientific branches.
 
 ## 👨‍💻 Projects
-I don't have work experience but I've developed projects that make me very proud 😁. Here I show you some of them:
+I've developed projects that make me very proud 😁. Here I show you some of them:
 
 🔸 🏦 [Bankist (Code)](http://https://github.com/eloybernardez/bankist-react-app "Bankist (Code)") | [Bankist (Preview)](http://bankist-react-app.vercel.app "Bankist Preview")
 
