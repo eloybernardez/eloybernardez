@@ -6,7 +6,7 @@ I'm a FrontEnd developer with knowledge in HTML, CSS, JavaScript, Bootstrap, Mat
 My background in Science and the tutoring I provide allow me to work with a strong critical thinking, in a disciplined and organized way and with an adaptability to changes very necessary in scientific branches.
 
 ## 👨‍💻 Projects
-I've developed projects that make me very proud 😁. Here I show you some of them:
+I've created projects that make me very proud 😁. Here I show you some of them:
 
 🔸 🏦 [Bankist (Code)](http://https://github.com/eloybernardez/bankist-react-app "Bankist (Code)") | [Bankist (Preview)](http://bankist-react-app.vercel.app "Bankist Preview")
 
