@@ -1,9 +1,11 @@
 # Hi there, I'm Eloy Bernardez 👋
 
 ## 🖖 About me
-I'm a FrontEnd developer with knowledge in HTML, CSS, JavaScript, Bootstrap, Material UI, Redux, React and Git. I love to create... to create and innovate with digital products that can improve people's lives. Also, I love to transfer my knowledge and help people to reach their best version.
+Solutions-oriented, team player and problem solver React frontend developer. I love creating innovative digital experiences that can improve people's life. Plus, I love teaching and helping others succeed in anything they want.
 
-My background in Science and the tutoring I provide allow me to work with a strong critical thinking, in a disciplined and organized way and with an adaptability to changes very necessary in scientific branches.
+My Science background and current job, have given me the necessary soft skills such as critical thinking, discipline, and adaptability to change, the most demanded in this area.
+
+Actually, I'm working as a math, algebra and statistics tutor in Grey Matter LP, a small Startup that I've co-funded alongside my girlfriend 5 years ago. We've helped over the 80% of our students not only in accomplishing their academic goals but also teach them new ways of studying, how to expand this ways to other subjects and more important, focus on learning more than passing.
 
 ## 👨‍💻 Projects
 I've created projects that make me very proud 😁. Here I show you some of them:
