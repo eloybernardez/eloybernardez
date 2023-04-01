@@ -10,7 +10,11 @@ Actually, I'm working as a math, algebra and statistics tutor in Grey Matter LP,
 ## 👨‍💻 Projects
 I've created projects that make me very proud 😁. Here I show you some of them:
 
-🔸 🏦 [Bankist (Code)](http://https://github.com/eloybernardez/bankist-react-app "Bankist (Code)") | [Bankist (Preview)](http://bankist-react-app.vercel.app "Bankist Preview")
+🔸 🏋 [Grey Matter (Code)](https://github.com/eloybernardez/grey-matter-v2 "Grey Matter (Code)") | [Grey Matter (Preview)](https://grey-matter.vercel.app/ "Grey Matter Preview")
+
+🔸 🏋 [Golds Gym (Code)](https://github.com/eloybernardez/golds-gym "Golds Gym (Code)") | [Golds Gym (Preview)](https://golds-gym-black.vercel.app/ "Golds Gym Preview")
+
+🔸 🏦 [Bankist (Code)](https://github.com/eloybernardez/bankist-v2 "Bankist (Code)") | [Bankist (Preview)](https://bankist-dusky.vercel.app/ "Bankist Preview")
 
 🔸 💸 [React Yard Sale (Code)](https://github.com/eloybernardez/react-yard-sale "React Yard Sale (Code)") | [React Yard Sale (Preview)](https://react-yard-sale.vercel.app/ "React Yard Sale (Preview)")
 
@@ -18,12 +22,9 @@ I've created projects that make me very proud 😁. Here I show you some of them
 
 🔸 🎰 [Casino Interview (Code)](https://github.com/eloybernardez/interview-casino "Casino Interview (Code)") | [Casino Interview (Preview)](https://interview-casino.vercel.app/ "Casino Interview (Preview)")
 
-🔸 🐙 [Pokedux (Code)](https://github.com/eloybernardez/pokedux "Pokedux (Code)") | [Pokedux (Preview)](https://pokedux-azure.vercel.app/ "Pokedux (Preview)")
-
-🔸 🎲 [Pig Game (Code)](https://github.com/eloybernardez/pig-game "Pig Game (Code)") | [Pig Game (Preview)](https://eloybernardez.github.io/pig-game/ "Pig Game (Preview)")
 
 ## 🗃 Tech Stack
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <a href="https://cdnlogo.com/logo/sass_35586.html"><img src="https://cdn.cdnlogo.com/logos/s/63/sass.svg" alt="Sass Logo" width="50" height="50"></a> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/> <img src="https://cdn.cdnlogo.com/logos/m/65/material-ui.svg" alt="MUI logo" width="50" height="50"/> <img src="https://cdn.cdnlogo.com/logos/r/69/redux.svg" alt="Redux logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <a href="https://cdnlogo.com/logo/jest_36524.html"><img src="https://cdn.cdnlogo.com/logos/j/58/jest.svg" height="50" width="50" alt="Jest logo"></a>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <a href="https://cdnlogo.com/logo/sass_35586.html"><img src="https://cdn.cdnlogo.com/logos/s/63/sass.svg" alt="Sass Logo" width="50" height="50"></a> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled Components Logo" width="50" height="50"/> <img src="https://cdn.cdnlogo.com/logos/m/65/material-ui.svg" alt="MUI logo" width="50" height="50"/> <img src="https://cdn.cdnlogo.com/logos/r/69/redux.svg" alt="Redux logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <a href="https://cdnlogo.com/logo/next-js_21574.html"><img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg"></a> <a href="https://cdnlogo.com/logo/tailwindcss_42966.html"><img src="https://cdn.cdnlogo.com/logos/t/58/tailwindcss.svg"></a> <a href="https://cdnlogo.com/logo/jest_36524.html"><img src="https://cdn.cdnlogo.com/logos/j/58/jest.svg" height="50" width="50" alt="Jest logo"></a>
 
 
 
