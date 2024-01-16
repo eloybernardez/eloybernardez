@@ -36,4 +36,4 @@ I've created projects that make me very proud 😁. Here I show you some of them
 
 
 ## 📲 Contact me!
-- 📩 eloy.ricardo.550@gmail.com
+- 📩 eloybdev@gmail.com
